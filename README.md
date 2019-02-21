@@ -10,8 +10,11 @@
 
 - Software tool developed in C++ (Linux environment) using the library OpenGL/GLUT. The user can specify the parameters suggested in the objectives. The source code and the documentation of this project is available here. The software tool was tested using two 3d point cloud datasets. The videos demonstrating those tests are presented next:
 
+- [Demo video 02](https://youtu.be/ttVZqsft5TA)
 
 [![alt text](https://img.youtube.com/vi/ttVZqsft5TA/0.jpg)](https://youtu.be/ttVZqsft5TA)
 
+
+- [Demo video 02](https://youtu.be/iQ7Tu-Sr8IY)
 
 [![alt text](https://img.youtube.com/vi/iQ7Tu-Sr8IY/0.jpg)](https://youtu.be/iQ7Tu-Sr8IY)
