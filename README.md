@@ -1,4 +1,6 @@
 # Reconstruction of octrees from 3D point cloud
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4570626.svg)](https://doi.org/10.5281/zenodo.4570626)
+
 
 ## Objectives:
 
